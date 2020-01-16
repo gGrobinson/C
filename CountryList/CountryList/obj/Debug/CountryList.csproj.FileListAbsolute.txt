@@ -1,0 +1,10 @@
+c:\users\georg\source\repos\CountryList\CountryList\obj\Debug\CountryList.csprojResolveAssemblyReference.cache
+c:\users\georg\source\repos\CountryList\CountryList\obj\Debug\CountryList.Form1.resources
+c:\users\georg\source\repos\CountryList\CountryList\obj\Debug\CountryList.Properties.Resources.resources
+c:\users\georg\source\repos\CountryList\CountryList\obj\Debug\CountryList.csproj.GenerateResource.cache
+c:\users\georg\source\repos\CountryList\CountryList\obj\Debug\CountryList.csproj.CoreCompileInputs.cache
+C:\Users\georg\Documents\Uni\2nd Year\CountryList\CountryList\CountryList\obj\Debug\CountryList.csprojResolveAssemblyReference.cache
+C:\Users\georg\Documents\Uni\2nd Year\CountryList\CountryList\CountryList\obj\Debug\CountryList.Form1.resources
+C:\Users\georg\Documents\Uni\2nd Year\CountryList\CountryList\CountryList\obj\Debug\CountryList.Properties.Resources.resources
+C:\Users\georg\Documents\Uni\2nd Year\CountryList\CountryList\CountryList\obj\Debug\CountryList.csproj.GenerateResource.cache
+C:\Users\georg\Documents\Uni\2nd Year\CountryList\CountryList\CountryList\obj\Debug\CountryList.csproj.CoreCompileInputs.cache
