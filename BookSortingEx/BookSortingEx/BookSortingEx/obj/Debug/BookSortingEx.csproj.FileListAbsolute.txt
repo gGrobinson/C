@@ -1,0 +1,23 @@
+C:\Documents and Settings\moi\My Documents\BookSortingEx\BookSortingEx\obj\Debug\BookSortingEx.exe
+C:\Documents and Settings\moi\My Documents\BookSortingEx\BookSortingEx\obj\Debug\BookSortingEx.pdb
+C:\Documents and Settings\moi\My Documents\BookSortingEx\BookSortingEx\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\moi\My Documents\BookSortingEx\BookSortingEx\bin\Debug\BookSortingEx.exe
+C:\Documents and Settings\moi\My Documents\BookSortingEx\BookSortingEx\bin\Debug\BookSortingEx.pdb
+C:\Users\georg\Desktop\BookSortingEx\BookSortingEx\BookSortingEx\obj\Debug\BookSortingEx.csprojResolveAssemblyReference.cache
+C:\Users\georg\Desktop\BookSortingEx\BookSortingEx\BookSortingEx\obj\Debug\BookSortingEx.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\BookSortingEx\BookSortingEx\BookSortingEx\obj\Debug\BookSortingEx.exe
+C:\Users\georg\Desktop\BookSortingEx\BookSortingEx\BookSortingEx\obj\Debug\BookSortingEx.pdb
+C:\Users\georg\Desktop\BookSortingEx\BookSortingEx\BookSortingEx\bin\Debug\BookSortingEx.exe
+C:\Users\georg\Desktop\BookSortingEx\BookSortingEx\BookSortingEx\bin\Debug\BookSortingEx.pdb
+C:\Users\georg\Desktop\Data Structures\BookSortingEx\BookSortingEx\BookSortingEx\bin\Debug\BookSortingEx.exe
+C:\Users\georg\Desktop\Data Structures\BookSortingEx\BookSortingEx\BookSortingEx\bin\Debug\BookSortingEx.pdb
+C:\Users\georg\Desktop\Data Structures\BookSortingEx\BookSortingEx\BookSortingEx\obj\Debug\BookSortingEx.csprojResolveAssemblyReference.cache
+C:\Users\georg\Desktop\Data Structures\BookSortingEx\BookSortingEx\BookSortingEx\obj\Debug\BookSortingEx.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\Data Structures\BookSortingEx\BookSortingEx\BookSortingEx\obj\Debug\BookSortingEx.exe
+C:\Users\georg\Desktop\Data Structures\BookSortingEx\BookSortingEx\BookSortingEx\obj\Debug\BookSortingEx.pdb
+C:\Users\georg\Documents\Uni\2nd Year\Data Structures\BookSortingEx\BookSortingEx\BookSortingEx\bin\Debug\BookSortingEx.exe
+C:\Users\georg\Documents\Uni\2nd Year\Data Structures\BookSortingEx\BookSortingEx\BookSortingEx\bin\Debug\BookSortingEx.pdb
+C:\Users\georg\Documents\Uni\2nd Year\Data Structures\BookSortingEx\BookSortingEx\BookSortingEx\obj\Debug\BookSortingEx.csprojResolveAssemblyReference.cache
+C:\Users\georg\Documents\Uni\2nd Year\Data Structures\BookSortingEx\BookSortingEx\BookSortingEx\obj\Debug\BookSortingEx.csproj.CoreCompileInputs.cache
+C:\Users\georg\Documents\Uni\2nd Year\Data Structures\BookSortingEx\BookSortingEx\BookSortingEx\obj\Debug\BookSortingEx.exe
+C:\Users\georg\Documents\Uni\2nd Year\Data Structures\BookSortingEx\BookSortingEx\BookSortingEx\obj\Debug\BookSortingEx.pdb
